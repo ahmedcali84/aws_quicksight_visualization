@@ -32,19 +32,19 @@ In this project, I utilized Amazon QuickSight to generate visuals for a Netflix 
 
 Here's my bucket with the CSV file and `manifest.json`:
 
-![S3 Bucket](path/to/image1.png)
+![S3 Bucket](images\s3Bucket.png)
 
 ### Step 2: Create Your Amazon QuickSight Account
 
 Creating a QuickSight account was straightforward and took just a few minutes.
 
-![QuickSight Account](path/to/image2.png)
+![QuickSight Account](images\accountCreation.png)
 
 ### Step 3: Connect Your S3 Bucket to Amazon QuickSight
 
 Connect the S3 bucket to QuickSight by entering the URL to the `manifest.json` file in your bucket. This file is crucial as it contains the URL to the stored data.
 
-![Connecting S3 to QuickSight](path/to/image3.png)
+![Connecting S3 to QuickSight](images\connectS3ToQuicksigh.png)
 
 ## Creating Visualizations
 
@@ -59,19 +59,19 @@ To create visualizations in QuickSight:
 
 Here’s one of my first visualizations showing the breakdown of release year grouped by type (TV shows or movies):
 
-![Visualization Example](path/to/image4.png)
+![Visualization Example](images\firstVisuals.png)
 
 ### Step 5: Using Filters
 
 Filters help narrow down specific parts of the fields you are interested in. Here’s an example after applying filters:
 
-![Filtered Visualization](path/to/image5.png)
+![Filtered Visualization](images\visualsFilters.png)
 
 ### Step 6: Set Up Your Dashboard
 
 As a finishing touch, I added titles to my visuals and published them. You can also export your dashboard as PDFs by clicking the export button and choosing "Generate PDF".
 
-![Final Dashboard](path/to/image6.png)
+![Final Dashboard](images\Dashboard.png)
 
 ## Key Learnings
 
